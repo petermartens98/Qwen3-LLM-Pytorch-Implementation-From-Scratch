@@ -1,5 +1,5 @@
 # Qwen3-LLM-Pytorch-Implementation-From-Scratch
-`For Full Code Navigate to Jupyter Notebook: `
+`For Full Code Navigate in this Repo to Jupyter Notebook: qwen3_llm_implementation_from_scratch.ipynb`
 ### Project Overview
 - Lightweight LLM inspired by Qwen3, built from scratch in PyTorch.
 - Implements modern transformer components including RMSNorm, Rotary Position Embeddings (RoPE), Grouped-Query Attention (GQA), and SwiGLU feed-forward layers.
